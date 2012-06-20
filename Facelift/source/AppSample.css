@@ -1,0 +1,15 @@
+.Facelift-AppSample {
+    width: 220px;
+    border-radius: 4px;
+    background-color: lightgray;
+    margin: 20px;
+    padding: 5px;
+    text-align: center;
+}
+
+.app1 {
+
+}
+
+.app1 .onyx.onyx-toolbar {
+}
